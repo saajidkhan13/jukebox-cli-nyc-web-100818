@@ -1,15 +1,12 @@
-songs = [
-  "Phoenix - 1901",
-  "Tokyo Police Club - Wait Up",
-  "Sufjan Stevens - Too Much",
-  "The Naked and the Famous - Young Blood",
-  "(Far From) Home - Tiga",
-  "The Cults - Abducted",
-  "Phoenix - Consolation Prizes",
-  "Harry Chapin - Cats in the Cradle",
-  "Amos Lee - Keep It Loose, Keep It Tight"
-]
-  
+my_songs = {
+"Go Go GO" => '/home/saajidkhan13/jukebox-cli-nyc-web-100818/audio/Emerald-Park/01.mp3',
+"LiberTeens" => '/home/saajidkhan13/jukebox-cli-nyc-web-100818/audio/Emerald-Park/02.mp3',
+"Hamburg" =>  '/home/saajidkhan13/jukebox-cli-nyc-web-100818/audio/Emerald-Park/03.mp3',
+"Guiding Light" => '/home/saajidkhan13/jukebox-cli-nyc-web-100818/audio/Emerald-Park/04.mp3',
+"Wolf" => '/home/saajidkhan13/jukebox-cli-nyc-web-100818/Emerald-Park/05.mp3',
+"Blue" => '/home/saajidkhan13/jukebox-cli-nyc-web-100818/audio/Emerald-Park/06.mp3',
+"Graduation Failed" => '/home/saajidkhan13/jukebox-cli-nyc-web-100818/audio/Emerald-Park/07.mp3'
+}
   
 
 def help
